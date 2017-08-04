@@ -9,7 +9,7 @@ font-weight: 400;
 font-style: normal;
 line-height: 1.5;
 background-color: #fff;
-border: .75rem solid #0096c1;
+/* border: .75rem solid #0096c1; */
 }
 
 body, p, div {
@@ -21,11 +21,11 @@ text-decoration: none;
 }
 
 a:link {
-color: #0096c1;
+color: #02c7ff;
 }
 
 a:visited {
-color: #005770;
+color: #02c7ff;
 }
 
 a:hover, a:active {
@@ -38,10 +38,11 @@ font-size: calc(5.5vw); width: 100%; font-family: 'Rubik', sans-serif; word-spac
 
 .bold {
 font-weight: 700;
+color: #0096c1;
 }
 
 h2 {
-color: #0096c1; font-family: 'Rubik', sans-serif; font-size: 32px; font-weight: 700; padding: .5em 0 .5em;
+font-family: 'Rubik', sans-serif; font-size: 32px; font-weight: 700; padding: .5em 0 .5em;
 }
 
 html {
@@ -92,7 +93,7 @@ padding-left: 0% auto;
 /* --------------------- */
 /* main ---------------- */
 #main {
-width: 50%;
+width: 55%;
 text-align: left;
 margin: 0 auto;
 padding: 0 10%;
